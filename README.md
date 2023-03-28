@@ -1,2 +1,2 @@
 # Minisys-CPU
-Group project at Computer Organization course in SUSTech, 2022 Spring.
+Group project at Computer Organization course in SUSTech, 2022 Spring. This project designs and implements a single cycle CPU that supports the Von Neumann architecture of the Minisys instruction set. It provides support for multiple IO devices on the XILINX development board, and supports the issuance and execution of different assemblers using a single burn through the uart interface.
